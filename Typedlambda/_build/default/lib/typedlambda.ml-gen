@@ -1,0 +1,5 @@
+(** @canonical Typedlambda.Ast *)
+module Ast = Typedlambda__Ast
+
+(** @canonical Typedlambda.Typechecker *)
+module Typechecker = Typedlambda__Typechecker

@@ -1,0 +1,6 @@
+
+type gterm =
+  | Lint of int
+  | Lbool of bool
+
+               
